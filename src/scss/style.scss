@@ -42,5 +42,5 @@
 //----------------------------------*\
 // VENDOR
 //----------------------------------*/
-
+// It seems that by putting this here I imported my own scss which overrode the bootstrap default formats
 @import 'vendor/_external.scss';
